@@ -19,7 +19,7 @@ HERE WE OBSERVE THAT THE SOME PACKETS WILL BE DROPPED IN THIS PICTURE THAT IS HO
 ![dos attack animator](https://github.com/Sai-Durgapu/DOS-Attack-Using-Network-Simulator-2-and-Network-Animator-IBM-Cybersecurity-Project-APSCHE-/assets/118338970/9c262aad-d6f2-4067-b7b9-48338e9edacd)
 
 
-------------------------------------------------------------STABLE UDP TRAFFIC OUTPUT ----------------------------------------------------------------
+--------------------------------------------STABLE UDP TRAFFIC OUTPUT ---------------------------------------------------
 
 THE SCREENSHOTS OF STABLE CONNECTION IN UDP TRAFFIC IN NETWORK TOPOLOGY
 
@@ -31,7 +31,7 @@ HERE WE SEE THE NETWORK WILL BE STABLE CONNCETION UDP CONECTIONLESS
 ![udp tracefile order](https://github.com/Sai-Durgapu/DOS-Attack-Using-Network-Simulator-2-and-Network-Animator-IBM-Cybersecurity-Project-APSCHE-/assets/118338970/5e67e0a5-085b-4554-9c4a-8ab39e4b5021)
 
 
-----------------------------------------------------------STABLE TCP TRAFFIC OUTPUT-------------------------------------------------------------------
+--------------------------------------------STABLE TCP TRAFFIC OUTPUT----------------------------------------------------
 THE SCREENSHOTS OF STABLE CONNECTION IN TCP TRAFFIC IN NETWORK TOPOLOGY
 HERE WE SEE THE NETWORRK WILL BE STABLE CONNECTION TCP TRAFFIC WHICH IS CONNECTION OREINTED.
 ![stable connection with tcp output animator](https://github.com/Sai-Durgapu/DOS-Attack-Using-Network-Simulator-2-and-Network-Animator-IBM-Cybersecurity-Project-APSCHE-/assets/118338970/8d0ee4c0-8f2b-4d36-9b0a-a1d5f3cabde2)
