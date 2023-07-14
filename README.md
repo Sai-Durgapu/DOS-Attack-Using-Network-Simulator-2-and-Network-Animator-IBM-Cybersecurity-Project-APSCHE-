@@ -40,3 +40,21 @@ TCP TRACEFILE
 ![tracefile order](https://github.com/Sai-Durgapu/DOS-Attack-Using-Network-Simulator-2-and-Network-Animator-IBM-Cybersecurity-Project-APSCHE-/assets/118338970/823c1c1c-11a9-48f8-a702-31d0d762a244)
 
 
+
+
+
+                                               USING SAME  PROJECT IN KALI LINUX ENIVIROMENT
+
+
+
+EXECUTION OF DOS ATTACK
+![execution of dosattack file along with tracefile](https://github.com/Sai-Durgapu/DOS-Attack-Using-Network-Simulator-2-and-Network-Animator-IBM-Cybersecurity-Project-APSCHE-/assets/118338970/d3617d8d-13ef-4b81-883a-5e17f28ab0df)
+
+EXECUTION OF STABLE UDP TRAFFIC WITH TRACEFILE
+![execution of udp with tracefile](https://github.com/Sai-Durgapu/DOS-Attack-Using-Network-Simulator-2-and-Network-Animator-IBM-Cybersecurity-Project-APSCHE-/assets/118338970/ef7af05a-8e25-459d-81d4-25466bccbc34)
+
+EXECUTION OF STABLE TCP TRAFFIC WITH TRACEFILE IN THIS SCREENSHOT
+![stable tcp with tracefile](https://github.com/Sai-Durgapu/DOS-Attack-Using-Network-Simulator-2-and-Network-Animator-IBM-Cybersecurity-Project-APSCHE-/assets/118338970/8032a8e2-eab6-44a0-a53b-b03f05305eb0)
+
+
+                                                    THANK YOU IBM AND EDUNETFOUNDATION TEAM 
